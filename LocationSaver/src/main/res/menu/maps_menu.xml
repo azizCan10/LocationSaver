@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/durak_ekle" android:title="Durak Ekle"></item>
+    <item android:id="@+id/kullanici_ekle" android:title="Kullanıcı Ekle"></item>
+    <item android:id="@+id/admin_cikis_yap" android:title="Çıkış Yap"></item>
+
+</menu>
